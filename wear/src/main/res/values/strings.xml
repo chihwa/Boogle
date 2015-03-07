@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Boogle</string>
+    <string name="Instruction">Shake, Touch Here</string>
+    <string name="Boogle">Boogle</string>
+</resources>
